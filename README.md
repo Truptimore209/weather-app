@@ -34,4 +34,5 @@ https://truptimore209.github.io/weather-app/
 - Hosting a project using GitHub Pages
 - Improving UI using CSS
 
-- Author Name : Trupti More
+- ## 👩‍💻 Author
+*Trupti More*
